@@ -8558,7 +8558,7 @@
 	)
 	(global_label "col6"
 		(shape input)
-		(at 67.31 275.59 0)
+		(at 67.31 260.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8568,7 +8568,7 @@
 		)
 		(uuid "766b052e-b706-4fdb-bd9d-5d61839a5e05")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.4075 275.59 0)
+			(at 74.4075 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8734,7 +8734,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 67.31 262.89 0)
+		(at 67.31 273.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8744,7 +8744,7 @@
 		)
 		(uuid "8fb752be-ec8f-4101-8930-ccf48ec10eab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.4075 262.89 0)
+			(at 74.4075 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9108,7 +9108,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 67.31 265.43 0)
+		(at 67.31 270.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9118,7 +9118,7 @@
 		)
 		(uuid "df2a9f61-dc40-4d1e-8af7-da500d748b6b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.4075 265.43 0)
+			(at 74.4075 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9130,7 +9130,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 67.31 260.35 0)
+		(at 67.31 275.59 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9140,7 +9140,7 @@
 		)
 		(uuid "e335ac20-9c98-4f76-bd4f-945e77a0b2d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.4075 260.35 0)
+			(at 74.4075 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9218,7 +9218,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 67.31 273.05 0)
+		(at 67.31 262.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9228,7 +9228,7 @@
 		)
 		(uuid "fc1f044d-9877-4499-9050-3e15e36287e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.4075 273.05 0)
+			(at 74.4075 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9240,7 +9240,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 67.31 270.51 0)
+		(at 67.31 265.43 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9250,7 +9250,29 @@
 		)
 		(uuid "fe123352-1730-4b01-8918-393e095fa1f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.4075 270.51 0)
+			(at 74.4075 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col7"
+		(shape input)
+		(at 67.31 257.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe87e0eb-f798-4635-8940-2778fa2dc63b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.4075 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9684,7 +9706,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 146.05 140.97 0)
 			(effects
 				(font
@@ -9758,7 +9780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 92.71 201.93 0)
 			(effects
 				(font
@@ -9832,7 +9854,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 281.94 172.72 0)
 			(effects
 				(font
@@ -10173,7 +10195,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 181.61 201.93 0)
 			(effects
 				(font
@@ -10733,7 +10755,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 57.15 201.93 0)
 			(effects
 				(font
@@ -10807,7 +10829,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 146.05 186.69 0)
 			(effects
 				(font
@@ -10969,7 +10991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 215.9 177.8 0)
 			(effects
 				(font
@@ -11198,7 +11220,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 317.5 203.2 0)
 			(effects
 				(font
@@ -11272,7 +11294,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 62.23 207.01 0)
 			(effects
 				(font
@@ -11346,7 +11368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 26.67 207.01 0)
 			(effects
 				(font
@@ -11554,7 +11576,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 251.46 193.04 0)
 			(effects
 				(font
@@ -11716,7 +11738,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 317.5 172.72 0)
 			(effects
 				(font
@@ -12100,7 +12122,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 115.57 176.53 0)
 			(effects
 				(font
@@ -12174,7 +12196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 340.36 162.56 0)
 			(effects
 				(font
@@ -12868,7 +12890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 375.92 177.8 0)
 			(effects
 				(font
@@ -13030,7 +13052,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 146.05 156.21 0)
 			(effects
 				(font
@@ -13259,7 +13281,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 281.94 142.24 0)
 			(effects
 				(font
@@ -13555,7 +13577,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 62.23 146.05 0)
 			(effects
 				(font
@@ -13717,7 +13739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 110.49 201.93 0)
 			(effects
 				(font
@@ -13879,7 +13901,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 215.9 162.56 0)
 			(effects
 				(font
@@ -14129,7 +14151,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 181.61 186.69 0)
 			(effects
 				(font
@@ -14203,7 +14225,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 62.23 176.53 0)
 			(effects
 				(font
@@ -14344,7 +14366,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 57.15 186.69 0)
 			(effects
 				(font
@@ -14485,7 +14507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 370.84 142.24 0)
 			(effects
 				(font
@@ -14781,7 +14803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 146.05 171.45 0)
 			(effects
 				(font
@@ -14855,7 +14877,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 287.02 162.56 0)
 			(effects
 				(font
@@ -15260,7 +15282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 62.23 191.77 0)
 			(effects
 				(font
@@ -15401,7 +15423,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 340.36 208.28 0)
 			(effects
 				(font
@@ -15475,7 +15497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 26.67 176.53 0)
 			(effects
 				(font
@@ -15792,7 +15814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 26.67 191.77 0)
 			(effects
 				(font
@@ -16197,7 +16219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 251.46 162.56 0)
 			(effects
 				(font
@@ -16338,7 +16360,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 215.9 193.04 0)
 			(effects
 				(font
@@ -16567,7 +16589,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 317.5 157.48 0)
 			(effects
 				(font
@@ -16641,7 +16663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 57.15 156.21 0)
 			(effects
 				(font
@@ -16803,7 +16825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 370.84 157.48 0)
 			(effects
 				(font
@@ -17032,7 +17054,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 181.61 171.45 0)
 			(effects
 				(font
@@ -17462,7 +17484,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 281.94 187.96 0)
 			(effects
 				(font
@@ -17536,7 +17558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 375.92 193.04 0)
 			(effects
 				(font
@@ -17677,7 +17699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 215.9 208.28 0)
 			(effects
 				(font
@@ -17994,7 +18016,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 151.13 146.05 0)
 			(effects
 				(font
@@ -18554,7 +18576,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 281.94 157.48 0)
 			(effects
 				(font
@@ -18871,7 +18893,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 186.69 146.05 0)
 			(effects
 				(font
@@ -19121,7 +19143,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 251.46 177.8 0)
 			(effects
 				(font
@@ -19195,7 +19217,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 340.36 193.04 0)
 			(effects
 				(font
@@ -19424,7 +19446,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 335.28 203.2 0)
 			(effects
 				(font
@@ -20051,7 +20073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 115.57 191.77 0)
 			(effects
 				(font
@@ -20125,7 +20147,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 246.38 172.72 0)
 			(effects
 				(font
@@ -20266,7 +20288,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 110.49 186.69 0)
 			(effects
 				(font
@@ -20340,7 +20362,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 317.5 142.24 0)
 			(effects
 				(font
@@ -20481,7 +20503,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 57.15 171.45 0)
 			(effects
 				(font
@@ -20555,7 +20577,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 181.61 140.97 0)
 			(effects
 				(font
@@ -20717,7 +20739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 317.5 187.96 0)
 			(effects
 				(font
@@ -20858,7 +20880,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 26.67 161.29 0)
 			(effects
 				(font
@@ -20932,7 +20954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 370.84 203.2 0)
 			(effects
 				(font
@@ -21006,7 +21028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 287.02 208.28 0)
 			(effects
 				(font
@@ -21235,7 +21257,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 251.46 208.28 0)
 			(effects
 				(font
@@ -21309,7 +21331,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 370.84 172.72 0)
 			(effects
 				(font
@@ -21383,7 +21405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 340.36 147.32 0)
 			(effects
 				(font
@@ -21612,7 +21634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 146.05 201.93 0)
 			(effects
 				(font
@@ -21820,7 +21842,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 287.02 193.04 0)
 			(effects
 				(font
@@ -22912,7 +22934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 151.13 191.77 0)
 			(effects
 				(font
@@ -23053,7 +23075,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 215.9 147.32 0)
 			(effects
 				(font
@@ -23127,7 +23149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 62.23 161.29 0)
 			(effects
 				(font
@@ -23268,7 +23290,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 246.38 157.48 0)
 			(effects
 				(font
@@ -23430,7 +23452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 151.13 161.29 0)
 			(effects
 				(font
@@ -24246,7 +24268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 115.57 146.05 0)
 			(effects
 				(font
@@ -24521,7 +24543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 287.02 177.8 0)
 			(effects
 				(font
@@ -24683,7 +24705,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 375.92 208.28 0)
 			(effects
 				(font
@@ -25046,7 +25068,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 110.49 156.21 0)
 			(effects
 				(font
@@ -25120,7 +25142,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 181.61 156.21 0)
 			(effects
 				(font
@@ -25194,7 +25216,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 287.02 147.32 0)
 			(effects
 				(font
@@ -25690,7 +25712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 110.49 171.45 0)
 			(effects
 				(font
@@ -26736,7 +26758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 151.13 176.53 0)
 			(effects
 				(font
@@ -26810,7 +26832,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 375.92 162.56 0)
 			(effects
 				(font
@@ -26884,7 +26906,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 370.84 187.96 0)
 			(effects
 				(font
@@ -27134,7 +27156,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 251.46 147.32 0)
 			(effects
 				(font
@@ -27275,7 +27297,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 115.57 161.29 0)
 			(effects
 				(font
@@ -27416,7 +27438,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:SK6812MINI-E"
 			(at 110.49 140.97 0)
 			(effects
 				(font
