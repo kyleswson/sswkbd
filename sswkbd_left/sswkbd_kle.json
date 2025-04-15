@@ -1,0 +1,148 @@
+[
+  [
+    {
+      "x": 2.75
+    },
+    "~\n`\n\n\n\n\n\n\n\n1",
+    "!\n1\n\n\n\n\n\n\n\n2",
+    "@\n2\n\n\n\n\n\n\n\n3",
+    "#\n3\n\n\n\n\n\n\n\n4",
+    "$\n4\n\n\n\n\n\n\n\n5",
+    "%\n5\n\n\n\n\n\n\n\n6",
+    "^\n6\n\n\n\n\n\n\n\n7",
+    "&\n7\n\n\n\n\n\n\n\n8",
+    "*\n8\n\n\n\n\n\n\n\n9",
+    "(\n9\n\n\n\n\n\n\n\n10",
+    ")\n0\n\n\n\n\n\n\n\n11",
+    "_\n-\n\n\n\n\n\n\n\n12",
+    "+\n=\n\n\n\n\n\n\n\n13",
+    {
+      "w": 2
+    },
+    "Backspace\n\n\n\n\n\n\n\n\n14",
+    "Delete\n\n\n\n\n\n\n\n\n15"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "72",
+    "73",
+    {
+      "x": 0.75,
+      "a": 4,
+      "w": 1.5
+    },
+    "Tab\n\n\n\n\n\n\n\n\n16",
+    "Q\n\n\n\n\n\n\n\n\n17",
+    "W\n\n\n\n\n\n\n\n\n18",
+    "E\n\n\n\n\n\n\n\n\n19",
+    "R\n\n\n\n\n\n\n\n\n20",
+    "T\n\n\n\n\n\n\n\n\n21",
+    "Y\n\n\n\n\n\n\n\n\n22",
+    "U\n\n\n\n\n\n\n\n\n23",
+    "I\n\n\n\n\n\n\n\n\n24",
+    "O\n\n\n\n\n\n\n\n\n25",
+    "P\n\n\n\n\n\n\n\n\n26",
+    "{\n[\n\n\n\n\n\n\n\n27",
+    "}\n]\n\n\n\n\n\n\n\n28",
+    {
+      "w": 1.5
+    },
+    "|\n\\\n\n\n\n\n\n\n\n29",
+    "Home\n\n\n\n\n\n\n\n\n30"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "74",
+    "75",
+    {
+      "x": 0.75,
+      "a": 4,
+      "w": 1.75
+    },
+    "Caps Lock\n\n\n\n\n\n\n\n\n31",
+    "A\n\n\n\n\n\n\n\n\n32",
+    "S\n\n\n\n\n\n\n\n\n33",
+    "D\n\n\n\n\n\n\n\n\n34",
+    "F\n\n\n\n\n\n\n\n\n35",
+    "G\n\n\n\n\n\n\n\n\n36",
+    "H\n\n\n\n\n\n\n\n\n37",
+    "J\n\n\n\n\n\n\n\n\n38",
+    "K\n\n\n\n\n\n\n\n\n39",
+    "L\n\n\n\n\n\n\n\n\n40",
+    ":\n;\n\n\n\n\n\n\n\n41",
+    "\"\n'\n\n\n\n\n\n\n\n42",
+    {
+      "w": 2.25
+    },
+    "Enter\n\n\n\n\n\n\n\n\n43",
+    "End\n\n\n\n\n\n\n\n\n44"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "76",
+    "77",
+    {
+      "x": 0.75,
+      "a": 4,
+      "w": 2.25
+    },
+    "Shift\n\n\n\n\n\n\n\n\n45",
+    "Z\n\n\n\n\n\n\n\n\n46",
+    "X\n\n\n\n\n\n\n\n\n47",
+    "C\n\n\n\n\n\n\n\n\n48",
+    "V\n\n\n\n\n\n\n\n\n49",
+    "B\n\n\n\n\n\n\n\n\n50",
+    "N\n\n\n\n\n\n\n\n\n51",
+    "M\n\n\n\n\n\n\n\n\n52",
+    "<\n,\n\n\n\n\n\n\n\n53",
+    ">\n.\n\n\n\n\n\n\n\n54",
+    "?\n/\n\n\n\n\n\n\n\n55",
+    {
+      "w": 1.75
+    },
+    "Shift\n\n\n\n\n\n\n\n\n56",
+    "↑\n\n\n\n\n\n\n\n\n57",
+    "PgUp\n\n\n\n\n\n\n\n\n58"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "78",
+    "79",
+    {
+      "x": 0.75,
+      "a": 4,
+      "w": 1.25
+    },
+    "Ctrl\n\n\n\n\n\n\n\n\n59",
+    "Win\n\n\n\n\n\n\n\n\n60",
+    "Alt\n\n\n\n\n\n\n\n\n61",
+    {
+      "a": 7,
+      "w": 2.75
+    },
+    "62",
+    "63",
+    "64",
+    {
+      "w": 2
+    },
+    "65",
+    {
+      "a": 4
+    },
+    "Alt\n\n\n\n\n\n\n\n\n66",
+    "Win\n\n\n\n\n\n\n\n\n67",
+    "Ctrl\n\n\n\n\n\n\n\n\n68",
+    "←\n\n\n\n\n\n\n\n\n69",
+    "↓\n\n\n\n\n\n\n\n\n70",
+    "→\n\n\n\n\n\n\n\n\n71"
+  ]
+]

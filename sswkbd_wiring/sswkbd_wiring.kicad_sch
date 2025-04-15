@@ -11872,7 +11872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 52.07 71.12 0)
 			(effects
 				(font
@@ -29482,7 +29482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 34.29 71.12 0)
 			(effects
 				(font

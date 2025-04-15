@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.8"
     },
-    "CreationDate": "2025-04-13T22:17:09+09:00"
+    "CreationDate": "2025-04-15T18:10:27+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "sswkbd_wiring-F_Cu.gbr",
+      "Path": "sswkbd_wiring-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sswkbd_wiring-B_Cu.gbr",
+      "Path": "sswkbd_wiring-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sswkbd_wiring-F_Paste.gbr",
+      "Path": "sswkbd_wiring-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sswkbd_wiring-B_Paste.gbr",
+      "Path": "sswkbd_wiring-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sswkbd_wiring-F_Silkscreen.gbr",
+      "Path": "sswkbd_wiring-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sswkbd_wiring-B_Silkscreen.gbr",
+      "Path": "sswkbd_wiring-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sswkbd_wiring-F_Mask.gbr",
+      "Path": "sswkbd_wiring-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "sswkbd_wiring-B_Mask.gbr",
+      "Path": "sswkbd_wiring-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "sswkbd_wiring-Edge_Cuts.gbr",
+      "Path": "sswkbd_wiring-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
