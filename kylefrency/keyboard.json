@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "kylefrency",
+    "manufacturer": "Kyleswson",
+    "url": "",
+    "maintainer": "Kyleswson",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0xB077",
+        "device_version": "0.0.1"
+    },
+}
