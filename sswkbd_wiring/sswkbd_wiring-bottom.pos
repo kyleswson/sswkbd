@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-04-29T08:38:56+0900 ###
+### Footprint positions - created on 2025-05-02T13:41:55+0900 ###
 ### Printed by KiCad version 8.0.8
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -30,8 +30,8 @@ LED22     YS-SK6812MINI-E  SK6812MINI-E                                        1
 LED23     YS-SK6812MINI-E  SK6812MINI-E                                        137.7407  -135.5230  180.0000  bottom
 LED24     YS-SK6812MINI-E  SK6812MINI-E                                        154.3407  -154.5230  180.0000  bottom
 LED25     YS-SK6812MINI-E  SK6812MINI-E                                        156.7407  -135.5230  180.0000  bottom
-LED26     YS-SK6812MINI-E  SK6812MINI-E                                        142.4907   -97.5230  180.0000  bottom
-LED27     YS-SK6812MINI-E  SK6812MINI-E                                        147.2407  -116.5230  180.0000  bottom
+LED26     YS-SK6812MINI-E  SK6812MINI-E                                        147.2407  -116.5230  180.0000  bottom
+LED27     YS-SK6812MINI-E  SK6812MINI-E                                        142.4907   -97.5230  180.0000  bottom
 LED28     YS-SK6812MINI-E  SK6812MINI-E                                        132.9907   -78.5230  180.0000  bottom
 LED29     YS-SK6812MINI-E  SK6812MINI-E                                        151.9912   -68.9970    0.0000  bottom
 LED30     YS-SK6812MINI-E  SK6812MINI-E                                        161.4907   -97.5230  180.0000  bottom
@@ -39,8 +39,8 @@ LED31     YS-SK6812MINI-E  SK6812MINI-E                                        1
 LED32     YS-SK6812MINI-E  SK6812MINI-E                                        175.7407  -135.5230  180.0000  bottom
 LED33     YS-SK6812MINI-E  SK6812MINI-E                                        189.9907  -154.5230  180.0000  bottom
 LED34     YS-SK6812MINI-E  SK6812MINI-E                                        194.7407  -135.5230  180.0000  bottom
-LED35     YS-SK6812MINI-E  SK6812MINI-E                                        180.4907   -97.5230  180.0000  bottom
-LED36     YS-SK6812MINI-E  SK6812MINI-E                                        185.2407  -116.5230  180.0000  bottom
+LED35     YS-SK6812MINI-E  SK6812MINI-E                                        185.2407  -116.5230  180.0000  bottom
+LED36     YS-SK6812MINI-E  SK6812MINI-E                                        180.4907   -97.5230  180.0000  bottom
 LED37     YS-SK6812MINI-E  SK6812MINI-E                                        170.9912   -68.9970    0.0000  bottom
 LED38     YS-SK6812MINI-E  SK6812MINI-E                                        189.9907   -78.5230  180.0000  bottom
 LED39     YS-SK6812MINI-E  SK6812MINI-E                                        358.4130   -97.5230  180.0000  bottom
@@ -59,8 +59,8 @@ LED51     YS-SK6812MINI-E  SK6812MINI-E                                        3
 LED52     YS-SK6812MINI-E  SK6812MINI-E                                        301.4130  -154.5230  180.0000  bottom
 LED53     YS-SK6812MINI-E  SK6812MINI-E                                        282.4130  -154.5230  180.0000  bottom
 LED54     YS-SK6812MINI-E  SK6812MINI-E                                        287.1630  -135.5230  180.0000  bottom
-LED55     YS-SK6812MINI-E  SK6812MINI-E                                        291.9130   -97.5230  180.0000  bottom
-LED56     YS-SK6812MINI-E  SK6812MINI-E                                        296.6630  -116.5230  180.0000  bottom
+LED55     YS-SK6812MINI-E  SK6812MINI-E                                        296.6630  -116.5230  180.0000  bottom
+LED56     YS-SK6812MINI-E  SK6812MINI-E                                        291.9130   -97.5230  180.0000  bottom
 LED57     YS-SK6812MINI-E  SK6812MINI-E                                        282.4130   -78.5230  180.0000  bottom
 LED58     YS-SK6812MINI-E  SK6812MINI-E                                        263.4130   -78.5230  180.0000  bottom
 LED59     YS-SK6812MINI-E  SK6812MINI-E                                        272.9130   -97.5230  180.0000  bottom
@@ -69,8 +69,8 @@ LED61     YS-SK6812MINI-E  SK6812MINI-E                                        2
 LED62     YS-SK6812MINI-E  SK6812MINI-E                                        263.4130  -154.5230  180.0000  bottom
 LED63     YS-SK6812MINI-E  SK6812MINI-E                                        249.1630  -135.5230  180.0000  bottom
 LED64     YS-SK6812MINI-E  SK6812MINI-E                                        258.6630  -116.5230  180.0000  bottom
-LED65     YS-SK6812MINI-E  SK6812MINI-E                                        244.4120   -68.9970    0.0000  bottom
-LED66     YS-SK6812MINI-E  SK6812MINI-E                                        253.9130   -97.5230  180.0000  bottom
+LED65     YS-SK6812MINI-E  SK6812MINI-E                                        253.9130   -97.5230  180.0000  bottom
+LED66     YS-SK6812MINI-E  SK6812MINI-E                                        244.4120   -68.9970    0.0000  bottom
 LED67     YS-SK6812MINI-E  SK6812MINI-E                                        225.4130   -68.9970    0.0000  bottom
 LED68     YS-SK6812MINI-E  SK6812MINI-E                                        234.9130   -97.5230  180.0000  bottom
 LED69     YS-SK6812MINI-E  SK6812MINI-E                                        239.6630  -116.5230  180.0000  bottom

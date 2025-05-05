@@ -1,0 +1,26 @@
+#ifndef KB_H
+#define KB_H
+
+#include "quantum.h"
+
+#define KEYMAP( \
+	LA1,       LA3, LA4, LA5, LA6, LA7, LA8, RA2, RA3, RA4, RA5, RA6, RA7, RA8, RA9, \
+	LB1, LB2, LB3, LB4, LB5, LB6, LB7, LB8, RE2, RB2, RB3, RB4, RB5, RB6, RB7, RB8, RB9, \
+	LC1, LC2, LC3, LC4, LC5, LC6, LC7, LC8, RC2, RC3, RC4, RC5, RC6, RC7, RC8, RC9, \
+	LD1, LD2, LD3, LD4, LD5, LD6, LD7, LD8, RD2, RD3, RD4, RD5, RD6, RD7, RD8, RD9, \
+	LE1, LE2, LE3, LE4, LE5,       LE7, LE8, RE1, RE3, RE4, RE5, RE6, RE7, RE8, RE9  \
+) { \
+	{ LA1, KC_NO, LA3, LA4, LA5, LA6, LA7, LA8}, \
+	{ LB1, LB2, LB3, LB4, LB5, LB6, LB7, LB8}, \
+	{ LC1, LC2, LC3, LC4, LC5, LC6, LC7, LC8}, \
+	{ LD1, LD2, LD3, LD4, LD5, LD6, LD7, LD8}, \
+	{ LE1, LE2, LE3, LE4, LE5, KC_NO, LE7, LE8}, \
+\
+	{ KC_NO, RA2, RA3, RA4, RA5, RA6, RA7, RA8, RA9}, \
+	{ KC_NO, RB2, RB3, RB4, RB5, RB6, RB7, RB8, RB9 }, \
+	{ KC_NO, RC2, RC3, RC4, RC5, RC6, RC7, RC8, RC9 }, \
+	{ KC_NO, RD2, RD3, RD4, RD5, RD6, RD7, RD8, RD9 }, \
+	{ RE1, RE2, RE3, RE4, RE5, RE6, RE7, RE8, RE9 } \
+}
+
+#endif
